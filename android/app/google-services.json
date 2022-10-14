@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "753796226336",
+    "project_id": "deskmanager-e7e08",
+    "storage_bucket": "deskmanager-e7e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753796226336:android:7b852e3b30ea2b848ecb45",
+        "android_client_info": {
+          "package_name": "com.deskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753796226336-freqra56rpc8li5sbpq2089cj17hig9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0-xb10-6Ly_21ZVpai02NdbL-f4p2kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753796226336-freqra56rpc8li5sbpq2089cj17hig9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753796226336-4jodu4jqe38bfner98lv68m4n1mbro1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deskmanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
